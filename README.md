@@ -1,6 +1,6 @@
 # dudaantunes.html
 
-🔭 I’m currently studying at Senacrs
+🔭 I’m currently studying at Senacrs 
 🌱 I’m currently learning code
 👯 I’m looking to collaborate on projects
 💬 Ask me about anything, i will answer if interested
@@ -19,7 +19,7 @@ Here are some things about me:
 
 
 
-- 🔭 I’m currently studying at Senacrs
+- 🔭 I’m currently studying at Senacrs <br>
 - 🌱 I’m currently learning code
 - 👯 I’m looking to collaborate on projects
 - 💬 Ask me about anything, i will answer if interested
