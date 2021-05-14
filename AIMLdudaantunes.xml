@@ -1,0 +1,74 @@
+<?xml version="1.0" enconding="UTF-8"?>
+<aiml version="1.0.1" enconding="UTF-8"?>
+
+<category>
+<pattern>Como funciona o Instagram?</pattern>
+
+<template>
+Instagram, também conhecido como IG ou Insta, é uma rede social online para compartilhamento de fotos e vídeos. O aplicativo se conecta à câmera do celular e permite que você tire e publique fotos, grave vídeos e faça transmissões para todos os seus seguidores. Fonte: neilpatel.com
+<a herf="https://www.instagram.com/" target="_blank">Instagram </a> 
+</template>
+</category>
+
+<category>
+<pattern>Instagram</pattern>
+ <template>
+    Instagram, também conhecido como IG ou Insta, é uma rede social online para compartilhamento de fotos e vídeos. O aplicativo se conecta à câmera do celular e permite que você tire e publique fotos, grave vídeos e faça transmissões para todos os seus seguidores. Fonte: neilpatel.com 
+    <a herf="https://www.instagram.com/" target="_blank">Instagram </a>
+</template>
+</category>
+
+<category> 
+   <pattern> Você usa o Instagram? </pattern>
+   <template> Sim, eu uso!</template>
+   <template>Eu uso sim, adoro!</template>
+</category>
+
+<category>
+   <pattern>Qual teu signo?</pattern>
+   <template> Eu sou do signo de câncer, e você? </template> 
+   <template> Meu signo é cancêr, e o seu?</template> 
+</category> 
+
+<category>
+   <pattern>O que é informática?</pattern>
+   <template> É a ciência que estuda o tratamento automático e racional da informação (encarregada pelo estudo e desenvolvimento de máquinas e métodos para processar informação). Fonte: https://www.sorocaba.unesp.br
+   </template> 
+</category>
+
+<category>
+   <pattern>Informática</pattern>
+   <template>
+   <srai>O que é informática?</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>informatica</pattern>
+   <template>
+   <srai>O que é informática?</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>O que são as ODS?</pattern>
+   <template> Os Objetivos de Desenvolvimento Sustentável (ODS) são uma agenda mundial adotada durante a Cúpula das Nações Unidas sobre o Desenvolvimento Sustentável em setembro de 2015 composta por 17 objetivos e 169 metas a serem atingidos até 2030. 
+   <a herf="https://www.estrategiaods.org.br" target="_blank">ODS </a>
+   </template>
+</category>
+
+<category>
+   <pattern>ODS</pattern>
+   <template>
+   <srai>O que são as ODS?</srai?>
+   </template>
+</category>
+
+<category
+   <pattern>ods</pattern>
+   <template>
+   <srai>O que são as ODS?</srai>
+   </template>
+</category>
+
+</aiml> 
